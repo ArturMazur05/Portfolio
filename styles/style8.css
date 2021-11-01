@@ -1,0 +1,31 @@
+.perent {
+    height: 800px;
+}
+
+.text {
+    height: 225px;
+}
+
+.list {
+    width: 600px;
+    height: 250px;
+    margin-top: 15px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+a:link {
+    color:white;
+    text-decoration: black;
+}
+
+.transform-blocks {
+    height: 200px;
+    background-color: black;
+
+}

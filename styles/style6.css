@@ -1,0 +1,41 @@
+.top {
+    width: 800px;
+}
+
+.block-red {
+    height: 300px;
+    background-color: red;
+}
+
+.block-green {
+    height: 300px;
+    background-color: green;
+}
+
+.block-blue {
+    height: 300px;
+    background-color: blue;
+}
+
+.middle {
+    width: 800px;
+}
+
+.double {
+    width: 800px;
+    height: 300px;
+}
+
+.left {
+    width: 400px;
+    height: 300px;
+    background-color: gray;
+    float: left;
+}
+
+.right {
+    width: 400px;
+    height: 300px;
+    background-color: black;
+    float: left;
+}
