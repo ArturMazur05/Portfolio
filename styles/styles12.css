@@ -1,0 +1,54 @@
+.tip {
+    background-color: lightgrey;
+    height: 953px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu {
+    height: 600px;
+    width: 775px;
+    background-color: gray;
+    border-radius: 2%;
+    display: flex;
+}
+
+.contact {
+    background-color: white;
+    height: 600px;
+    width: 425px;
+    border-radius: 2%;
+    border-bottom-right-radius: 0%;
+    border-top-right-radius: 0%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.hello {
+    background-color: seagreen;
+    height: 600px;
+    width: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2%;
+    border-bottom-left-radius: 0%;
+    border-top-left-radius: 0%;
+}
+
+.f {
+    border-radius: 50%;
+    background-color: green;
+   width: 50px;
+   height: 50px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+.list {
+    display: flex;
+}
