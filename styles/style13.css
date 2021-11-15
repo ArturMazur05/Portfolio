@@ -1,0 +1,61 @@
+.tip {
+    background-color: lightgrey;
+    height: 1500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.sprint_1 {
+    background-color: white;
+    width: 1000px;
+    height: 400px;
+    border-radius: 1%;
+}
+
+.lessons {
+    background-color: white;
+    height: 300px;
+    width: 1000px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.lesson_1 {
+    background-color: whitesmoke;
+    width: 200px;
+    height: 100px;
+    border-radius: 6%;
+    box-shadow: 10px 5px 5px lightgrey;
+}
+
+.lesson_2 {
+    background-color: whitesmoke;
+    width: 200px;
+    height: 100px;
+    border-radius: 6%;
+    box-shadow: 10px 5px 5px lightgrey;
+}
+
+.lesson_3 {
+    background-color: whitesmoke;
+    width: 200px;
+    height: 100px;
+    border-radius: 6%;
+    box-shadow: 10px 5px 5px lightgrey;
+}
+
+.lesson_4 {
+    background-color: whitesmoke;
+    width: 200px;
+    height: 100px;
+    border-radius: 6%;
+    position: relative;
+    top: 150px; left: -750px;
+    box-shadow: 10px 5px 5px lightgrey;
+}
+
+h6 {
+    /* padding-bottom: 8px; */
+    font-size: 20px;
+}
